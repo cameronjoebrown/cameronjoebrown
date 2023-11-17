@@ -2,7 +2,8 @@
 
 I'm a Software Engineer at Fidelity Investments
 
-- 🌱 I’m currently learning more about Camunda, Docker, and Kubernetes
+- 👔 At work, I'm currently building UIs using Angular for a BPMN Automation Platform built on Camunda.
+- 🌱 I’m currently learning more about Camunda, Kubernetes, and AWS
 - 📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/cameronjoebrown/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Beat Saber
