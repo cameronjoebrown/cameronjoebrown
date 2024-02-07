@@ -2,11 +2,11 @@
 
 I'm a Software Engineer at Fidelity Investments
 
-- 👔 At work, I'm currently building UIs using Angular for a BPMN Automation Platform built on Camunda.
-- 🌱 I’m currently learning more about Camunda, Kubernetes, and AWS
+- 👔 At work, I'm currently building UIs using Angular for a BPMN Automation Platform built on Camunda and an Identity and Access Control System.
+- 🌱 I’m currently learning more about Camunda and working towards the AWS SAA Certification
 - 📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/cameronjoebrown/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love Beat Saber
+- ⚡ Fun fact: I love watching soccer 
 
 <!--
 **cameronjoebrown/cameronjoebrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
